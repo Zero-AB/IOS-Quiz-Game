@@ -1,0 +1,36 @@
+{
+    "numberOfQuestions": 5,
+    "questions": [
+                  {
+                  "number": 1,
+                  "questionSentence": "Festfolk was the original name for which group?    ",
+                  "options": {"A": "The Beach Boys", "B": "ABBA", "C": "Motorhead", "D": "Simon and Garfunkel"},
+                  "correctOption": "B"
+                  },
+                   {
+                  "number": 2,
+                  "questionSentence": "The title of which Pink Floyd album is also a chapter in 'The Wind In The Willows'?",
+                  "options": {"A": "Wish you were here", "B": "The piper at the gates of dawn", "C": "Meddle", "D": "Animals"},
+                  "correctOption": "B"
+                  },
+                   {
+                  "number": 3,
+                  "questionSentence": "Which pop duo was the first western band to play in The Peoples Republic of China?",
+                  "options": {"A": "Wham", "B": "Simon and Garfunkel", "C": "Chas and Dave", "D": "Right Said Fred"},
+                  "correctOption": "A"
+                  },
+                  {
+                  "number": 4,
+                  "questionSentence": "The song 'An Englishman in New York' was about which man?",
+                  "options": {"A": "Quentin Crisp", "B": "Sting", "C": "John Lennon", "D": "Gordon Sumner"},
+                  "correctOption": "A"
+                  },
+                  {
+                  "number": 5,
+                  "questionSentence": "Doris Day had a sleepy hit with which song?",
+                  "options": {"A": "Pillow talk", "B": "Golden slumbers", "C": "The beds too big without you", "D": "Tears on my pillow"},
+                  "correctOption": "A"
+                  }
+                  ],
+    "topic": "Music"
+}

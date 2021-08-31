@@ -1,0 +1,25 @@
+{
+    "numberOfQuestions": 3,
+    "questions": [
+                  {
+                  "number": 1,
+                  "questionSentence": "In which year did Louis Reard invent the bikini?",
+                  "options": {"A": "1906", "B": "1926", "C": "1946", "D": "1966"},
+                  "correctOption": "C"
+                  },
+                   {
+                  "number": 2,
+                  "questionSentence": "What are Lanthanides?",
+                  "options": {"A": "Elements in the periodic table", "B": "Mountains on Earth",
+                      "C": "Mountains on the Moon", "D": "Bacterium"},
+                  "correctOption": "A"
+                  },
+                   {
+                  "number": 3,
+                  "questionSentence": "What part of the body does a turtle use to breathe?",
+                  "options": {"A": "Belly", "B": "Shell", "C": "Mouth", "D": "Anus"},
+                  "correctOption": "D"
+                  }
+                  ],
+    "topic": "General"
+}

@@ -1,0 +1,30 @@
+{
+    "numberOfQuestions": 4,
+    "questions": [
+                  {
+                  "number": 1,
+                  "questionSentence": "James Bond was searching for what kind of airplane in 'Thunderball'?",
+                  "options": {"A": "707", "B": "Piper Cub", "C": "Vulkan", "D": "B-52"},
+                  "correctOption": "C"
+                  },
+                   {
+                  "number": 2,
+                  "questionSentence": "'Goodbye Farewell and Amen' was the final episode of which TV series?",
+                  "options": {"A": "MASH", "B": "Dallas", "C": "Friends", "D": "The Muppet Show"},
+                  "correctOption": "A"
+                  },
+                   {
+                  "number": 3,
+                  "questionSentence": "In which film do the words 'I love you' save the planet earth?",
+                  "options": {"A": "The Day After Tomorrow", "B": "The 5th Element", "C": "Mars Attacks", "D": "Independence Day"},
+                  "correctOption": "B"
+                  },
+                  {
+                  "number": 4,
+                  "questionSentence": "Which actor appeared in the Cranberries music video Ridiculous Thought?",
+                  "options": {"A": "Bruce Willis", "B": "Donald Sutherland", "C": "George Clooney", "D": "Elijah Wood"},
+                  "correctOption": "D"
+                  }
+                  ],
+    "topic": "Movies and TV"
+}
